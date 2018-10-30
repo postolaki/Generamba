@@ -32,9 +32,9 @@ $ ruby --version
 ```
 When necessary you can install the required Ruby version with the help of [`rvm`](http://octopress.org/docs/setup/rvm/) or [`rbenv`](http://octopress.org/docs/setup/rbenv/).
 
-Run the command:\n
-`gem install specific_install`\n
-`gem specific_install -l https://github.com/postolaki/Generamba.git`\n
+Run the command:<br />
+`gem install specific_install`<br />
+`gem specific_install -l https://github.com/postolaki/Generamba.git`<br />
 
 ### Usage
 1. Run [`generamba setup`](https://github.com/rambler-digital-solutions/Generamba/wiki/Available-Commands#basic-generamba-configuration) in the project root folder. This command helps to create [Rambafile](https://github.com/rambler-digital-solutions/Generamba/wiki/Rambafile-Structure) that define all configuration needed to generate code. You can modify this file directly in future.
