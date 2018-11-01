@@ -1,5 +1,5 @@
 module Generamba
-  VERSION = '1.4.1'
-  RELEASE_DATE = '29.08.2017'
+  VERSION = '1.5.0'
+  RELEASE_DATE = '01.10.2018'
   RELEASE_LINK = "https://github.com/rambler-digital-solutions/Generamba/releases/tag/#{VERSION}"
 end
